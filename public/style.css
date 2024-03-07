@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: #ffd700;
+    text-shadow: 
+    1px 0 1px #D5BA23,
+    2px 0 2px #AA9939,
+    3px 0 3px #807640,
+    4px 0 4px #555139;
+}
+html{
+    background-color:#8e1d0b;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
